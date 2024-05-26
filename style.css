@@ -255,6 +255,15 @@ footer .email p a{
     }
 
     /* CABEÇALHO */
+
+    .interface .logo{
+        align-items: center;
+        align-content: center;
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+    }
+
     .menudesktop, .btncontato{
         display: none;
     }
